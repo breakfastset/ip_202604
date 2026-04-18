@@ -1,0 +1,3 @@
+1. for loop to calculate total, average with augmented operator
+2. input validation with sentinel
+3. nested loops
