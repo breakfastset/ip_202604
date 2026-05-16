@@ -1,0 +1,11 @@
+Question|<option1>|<option2>|<option3>|<option4>|<correct option>|<marks>
+What is the only mammal capable of true, sustained flight?|Sparrow|Fruit Bat|Flying Squirrel|Sugar Glider|Fruit Bat|4
+Which chemical element has the symbol 'Fe' on the Periodic Table?|Fluorine|Iron|Francium|Fermium|Iron|3
+How many temporal zones (time zones) does Russia span across?|9|11|13|7|11|5
+Which of these mythical creatures is half-eagle and half-lion?|Centaur|Griffin|Pegasus|Chimera|Griffin|3
+What was the name of the first artificial satellite launched into Earth orbit in 1957?|Vanguard 1|Explorer 1|Sputnik 1|Telstar|Sputnik 1|4
+Which of William Shakespeare's plays is the shortest in length?|The Comedy of Errors|Macbeth|A Midsummer Night's Dream|The Tempest|The Comedy of Errors|5
+In the human body, what is the anatomical term for the kneecap?|Patella|Clavicle|Scapula|Fibula|Patella|5
+Which country consumes the most chocolate per capita?|Belgium|United States|Switzerland|Germany|Switzerland|3
+What is the literal meaning of the Japanese word 'Kamikaze'?|Divine Wind|Silent Death|Imperial Glory|Last Resort|Divine Wind|4
+Who is credited with inventing the World Wide Web in 1989?|Bill Gates|Steve Jobs|Tim Berners-Lee|Alan Turing|Tim Berners-Lee|4
